@@ -1,5 +1,5 @@
-# Aula-JavaScript💻🖱
+# Ensinamentos-JavaScript💻🖱
 
 Introdução ao JavaScript.
 
-Nessa aula é abordado os principais comandos e funcionalidades do JS.
+Principais comandos e funcionalidades do JS.
