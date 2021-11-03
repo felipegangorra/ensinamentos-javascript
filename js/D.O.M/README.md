@@ -10,4 +10,4 @@
 
 ## Exemplo
 
-![Exercício Dark Mode e Light Mode](https://cdn.discordapp.com/attachments/868299459543592962/903374285849108551/2.png) +
+![Exercício Dark Mode e Light Mode](https://cdn.discordapp.com/attachments/868299459543592962/903374285849108551/2.png)
